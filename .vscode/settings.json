@@ -1,0 +1,14 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "patternlinks.rules": [
+      {
+        "linkPattern": "CFM-\\d+",
+        "linkTarget": "https://electrifyamerica.atlassian.net/browse/$0"
+      }
+    ]
+  }
